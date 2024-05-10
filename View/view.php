@@ -9,9 +9,7 @@ include "../php/connection.php";
     <link rel="stylesheet" href="../style/style.css">
     <title>E-time</title>
 </head>
-<body>
-    <label for="" style="background:red;">hoi</label>
-           
+<body>   
         </div>
         <div class="right_contents">
         <table>
