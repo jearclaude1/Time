@@ -61,7 +61,7 @@ CREATE TABLE `client` (
 --
 
 INSERT INTO `client` (`id`, `name`, `type`, `detail`, `password`) VALUES
-(1, 'Fisto', 'user', 'is good', '123'),
+(1, 'Class', 'user', 'is good', '123'),
 (2, 'Dosi', 'admin', 'RE', '123');
 
 -- --------------------------------------------------------
