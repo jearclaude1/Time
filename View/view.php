@@ -10,8 +10,6 @@ include "../php/connection.php";
     <title>E-time</title>
 </head>
 <body>
-    <label for="" style="background:red;">hoi</label>
-           
         </div>
         <div class="right_contents">
         <table>
